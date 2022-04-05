@@ -1,0 +1,24 @@
+h1{
+font-family: 'Inter', sans-serif;
+}
+body{
+font-family: 'Open Sans', sans-serif;
+}
+
+
+#title{
+  font-size: 49px;
+  line-height: 56px;
+  font-weight: normal;
+}
+#title strong{
+  color: #FF9900;
+  font-weight: bold;
+}
+
+#text{
+  color: #7D7987;
+}
+#textColor, a{
+  color: #FF9900;
+}
