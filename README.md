@@ -1,7 +1,7 @@
-<h1 align="center"; color="#0099ff">
+<h1 align="center">
 Projeto01-Explorer
 </h1>
-<h2 text-align: center; color:#FF9900;>
+<h2 align=center>
 Móveis Customizados
 </h2>
 
