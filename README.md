@@ -1,4 +1,4 @@
-<h1 text-align: "center"; color: "#0099ff";>
+<h1 text-align: "center" color: "#0099ff">
 Projeto01-Explorer
 </h1>
 <h2 text-align: center; color:#FF9900;>
